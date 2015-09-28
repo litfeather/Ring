@@ -1,35 +1,107 @@
 K 25
 svn:wc:ra_dav:version-url
-V 31
-/svn/lijw/!svn/ver/240/ring/res
+V 45
+/svn/lijw/!svn/ver/160/ring/publish/html5/res
 END
-Plist.plist
+targetBlue.png
 K 25
 svn:wc:ra_dav:version-url
-V 43
-/svn/lijw/!svn/ver/229/ring/res/Plist.plist
+V 60
+/svn/lijw/!svn/ver/107/ring/publish/html5/res/targetBlue.png
+END
+curly.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/lijw/!svn/ver/119/ring/publish/html5/res/curly.png
+END
+straight_fixed.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/lijw/!svn/ver/119/ring/publish/html5/res/straight_fixed.png
+END
+curly_fixed.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/lijw/!svn/ver/119/ring/publish/html5/res/curly_fixed.png
+END
+lockLevel.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/lijw/!svn/ver/12/ring/publish/html5/res/lockLevel.png
+END
+curLevel.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/lijw/!svn/ver/12/ring/publish/html5/res/curLevel.png
+END
+targetRed.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/lijw/!svn/ver/107/ring/publish/html5/res/targetRed.png
+END
+unlockLevel.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/lijw/!svn/ver/12/ring/publish/html5/res/unlockLevel.png
+END
+targetBlack.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/lijw/!svn/ver/107/ring/publish/html5/res/targetBlack.png
+END
+turn1.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/lijw/!svn/ver/12/ring/publish/html5/res/turn1.mp3
+END
+turn2.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/lijw/!svn/ver/12/ring/publish/html5/res/turn2.mp3
+END
+straight.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/lijw/!svn/ver/119/ring/publish/html5/res/straight.png
+END
+turn3.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/lijw/!svn/ver/12/ring/publish/html5/res/turn3.mp3
+END
+toy.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/lijw/!svn/ver/12/ring/publish/html5/res/toy.mp3
+END
+line.png
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/lijw/!svn/ver/12/ring/publish/html5/res/line.png
+END
+turn4.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/lijw/!svn/ver/12/ring/publish/html5/res/turn4.mp3
 END
 bg.png
 K 25
 svn:wc:ra_dav:version-url
-V 38
-/svn/lijw/!svn/ver/160/ring/res/bg.png
-END
-StudioLogo.png
-K 25
-svn:wc:ra_dav:version-url
-V 46
-/svn/lijw/!svn/ver/148/ring/res/StudioLogo.png
-END
-LogoBg.png
-K 25
-svn:wc:ra_dav:version-url
-V 42
-/svn/lijw/!svn/ver/148/ring/res/LogoBg.png
-END
-Plist.png
-K 25
-svn:wc:ra_dav:version-url
-V 41
-/svn/lijw/!svn/ver/229/ring/res/Plist.png
+V 52
+/svn/lijw/!svn/ver/160/ring/publish/html5/res/bg.png
 END
