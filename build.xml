@@ -291,25 +291,27 @@
 
             </sources>
             <sources dir="${basedir}">
+                <file name="src/app.js"/>
                 <file name="src/resource.js"/>
                 <file name="src/game.js"/>
                 <file name="src/Conduit.js"/>
-                <file name="src/Constant.js"/>
                 <file name="src/utils.js"/>
-                <file name="src/app.js"/>
-                <file name="src/Type.js"/>
-                <file name="src/TipsLabel.js"/>
-                <file name="src/LastLayer.js"/>
-                <file name="src/PicLocation.js"/>
                 <file name="src/LevelCommon.js"/>
                 <file name="src/beforeLevel.js"/>
                 <file name="src/levelSelect.js"/>
                 <file name="src/levelSelect1.js"/>
                 <file name="src/levelSprite.js"/>
                 <file name="src/dcagent.min.js"/>
-                <file name="src/ScreenShotLayer.js"/>
                 <file name="src/level1.js"/>
                 <file name="src/LoadingScene.js"/>
+                <file name="src/gameData/Constant.js"/>
+                <file name="src/gameData/PicLocation.js"/>
+                <file name="src/gameData/TipsLabel.js"/>
+                <file name="src/gameData/Type.js"/>
+                <file name="src/ui/GameUI.js"/>
+                <file name="src/ui/HelpLayer.js"/>
+                <file name="src/ui/LastLayer.js"/>
+                <file name="src/ui/ScreenShotLayer.js"/>
                 <file name="main.js"/>
 
             </sources>

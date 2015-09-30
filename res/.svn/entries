@@ -1,14 +1,14 @@
 10
 
 dir
-240
+252
 http://lijw@10.10.8.169:18080/svn/lijw/ring/res
 http://lijw@10.10.8.169:18080/svn/lijw
 
 
 
-2015-09-28T03:27:13.701705Z
-240
+2015-09-29T09:41:11.189676Z
+252
 lijw
 
 
@@ -34,7 +34,7 @@ dir
 
 Plist.plist
 file
-229
+
 
 
 
@@ -66,49 +66,15 @@ lijw
 
 12621
 
-bg
+conduit
 dir
 
-LogoBg.png
-file
-228
-
-
-
-2015-09-22T00:33:32.000000Z
-c16af57d55b070fa5e9dee968dabe0a2
-2015-09-09T08:47:46.104423Z
-148
-lijw
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-28261
-
-conduit
+bg
 dir
 
 bg.png
 file
-228
+
 
 
 
@@ -142,16 +108,7 @@ has-props
 
 StudioLogo.png
 file
-228
-
-
-
-2015-09-22T00:33:32.000000Z
-56c8bb751fc3262615d3c303c50689b8
-2015-09-09T08:47:46.104423Z
-148
-lijw
-has-props
+254
 
 
 
@@ -171,19 +128,42 @@ has-props
 
 
 
+deleted
+
+LogoBg.png
+file
+254
 
-66569
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deleted
 
 Plist.png
 file
-229
 
 
 
-2015-09-25T15:20:08.000000Z
-1589d3abf402fc704c6200d63d0adac3
-2015-09-28T00:33:18.312372Z
-229
+
+2015-09-29T00:20:43.000000Z
+25d4197d96975d5630b27e16d9825466
+2015-09-28T09:34:39.671496Z
+247
 lijw
 has-props
 
@@ -206,5 +186,5 @@ has-props
 
 
 
-197179
+180487
 
