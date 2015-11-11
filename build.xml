@@ -295,6 +295,7 @@
                 <file name="src/app.js"/>
                 <file name="src/Conduit.js"/>
                 <file name="src/Constant.js"/>
+                <file name="src/LoadingScene.js"/>
                 <file name="main.js"/>
 
             </sources>
