@@ -299,19 +299,25 @@
                 <file name="src/LevelCommon.js"/>
                 <file name="src/beforeLevel.js"/>
                 <file name="src/levelSelect.js"/>
-                <file name="src/levelSelect1.js"/>
                 <file name="src/levelSprite.js"/>
                 <file name="src/dcagent.min.js"/>
                 <file name="src/level1.js"/>
                 <file name="src/LoadingScene.js"/>
+                <file name="src/CommonFun.js"/>
                 <file name="src/gameData/Constant.js"/>
                 <file name="src/gameData/PicLocation.js"/>
                 <file name="src/gameData/TipsLabel.js"/>
                 <file name="src/gameData/Type.js"/>
+                <file name="src/ui/AboutLayer.js"/>
                 <file name="src/ui/GameUI.js"/>
                 <file name="src/ui/HelpLayer.js"/>
+                <file name="src/ui/moreLayer.js"/>
+                <file name="src/ui/PayLayer.js"/>
                 <file name="src/ui/LastLayer.js"/>
                 <file name="src/ui/ScreenShotLayer.js"/>
+                <file name="src/ui/SettingLayer.js"/>
+                <file name="src/ui/TeachSwitch.js"/>
+                <file name="src/ui/RestartLayer.js"/>
                 <file name="main.js"/>
 
             </sources>
